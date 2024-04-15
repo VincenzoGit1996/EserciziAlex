@@ -1,0 +1,4 @@
+C:\Users\vince\OneDrive\Desktop\esercizioGeometria\esercizioInterfaccia\obj\Debug\net8.0\esercizioGeometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\Desktop\esercizioGeometria\esercizioInterfaccia\obj\Debug\net8.0\esercizioGeometria.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\Desktop\esercizioGeometria\esercizioInterfaccia\obj\Debug\net8.0\esercizioGeometria.AssemblyInfo.cs
+C:\Users\vince\OneDrive\Desktop\esercizioGeometria\esercizioInterfaccia\obj\Debug\net8.0\esercizioGeometria.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\vince\OneDrive\Desktop\esercizioGeometria\esercizioInterfaccia\obj\Debug\net8.0\esercizioInterfaccia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\Desktop\esercizioGeometria\esercizioInterfaccia\obj\Debug\net8.0\esercizioInterfaccia.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\Desktop\esercizioGeometria\esercizioInterfaccia\obj\Debug\net8.0\esercizioInterfaccia.AssemblyInfo.cs
+C:\Users\vince\OneDrive\Desktop\esercizioGeometria\esercizioInterfaccia\obj\Debug\net8.0\esercizioInterfaccia.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\Desktop\esercizioGeometria\esercizioInterfaccia\bin\Debug\net8.0\esercizioInterfaccia.exe
+C:\Users\vince\OneDrive\Desktop\esercizioGeometria\esercizioInterfaccia\bin\Debug\net8.0\esercizioInterfaccia.deps.json
+C:\Users\vince\OneDrive\Desktop\esercizioGeometria\esercizioInterfaccia\bin\Debug\net8.0\esercizioInterfaccia.runtimeconfig.json
+C:\Users\vince\OneDrive\Desktop\esercizioGeometria\esercizioInterfaccia\bin\Debug\net8.0\esercizioInterfaccia.dll
+C:\Users\vince\OneDrive\Desktop\esercizioGeometria\esercizioInterfaccia\bin\Debug\net8.0\esercizioInterfaccia.pdb
+C:\Users\vince\OneDrive\Desktop\esercizioGeometria\esercizioInterfaccia\obj\Debug\net8.0\esercizioInterfaccia.dll
+C:\Users\vince\OneDrive\Desktop\esercizioGeometria\esercizioInterfaccia\obj\Debug\net8.0\refint\esercizioInterfaccia.dll
+C:\Users\vince\OneDrive\Desktop\esercizioGeometria\esercizioInterfaccia\obj\Debug\net8.0\esercizioInterfaccia.pdb
+C:\Users\vince\OneDrive\Desktop\esercizioGeometria\esercizioInterfaccia\obj\Debug\net8.0\esercizioInterfaccia.genruntimeconfig.cache
+C:\Users\vince\OneDrive\Desktop\esercizioGeometria\esercizioInterfaccia\obj\Debug\net8.0\ref\esercizioInterfaccia.dll
